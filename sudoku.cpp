@@ -1,6 +1,6 @@
 // A Backtracking program in
 // C++ to solve Sudoku problem
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 // UNASSIGNED is used for empty
