@@ -1,5 +1,3 @@
-<script>
-
 /* A Backtracking program in
 Javascript to solve Sudoku problem */
 
@@ -156,5 +154,3 @@ else
 }
 
 // This code is contributed by avanitrachhadiya2155
-
-</script>
